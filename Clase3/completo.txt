@@ -1,12 +1,12 @@
-Santiago Onzalez
+Santiago Garcia
 Valentina Martinez
 Mateo Lopez
-Ximena Onzalez
+Ximena Gonzalez
 Sebastian Perez
 Regina Rodriguez
 Leonardo Sanchez
 Camila Ramirez
-Matias Onzalez
+Matias Cruz
 Valeria Flores
 Emiliano Ruiz
 Renata Diaz
@@ -17,7 +17,7 @@ Natalia Torres
 Daniel Navarro
 Daniela Castro
 Jesus Romero
-Isabella Onzalez
+Isabella Gutierrez
 Alejandro Molina
 Fernanda Delgado
 Angel Soto
@@ -31,7 +31,7 @@ Luis Hernandez
 Carmen Garcia
 Jorge Martinez
 Patricia Lopez
-Raul Onzalez
+Raul Gonzalez
 Gabriela Perez
 Mario Rodriguez
 Claudia Sanchez
@@ -54,6 +54,6 @@ Nora Ortega
 Vicente Soto
 Martha Medina
 Armando Castillo
-Leticia Onzalez
+Leticia Aguilar
 Salvador Ramos
 Sara Leon
